@@ -1,3 +1,11 @@
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Sameer Khan
+</h1>
+
+### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
+
+---
+
 # 💫 About Me:
 
 - 🔭 I'm currently working on **Automating CI/CD pipelines & Infrastructure as Code (IaC)**
