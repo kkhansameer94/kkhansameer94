@@ -1,8 +1,10 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Sameer Khan
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" height="50px"/> Hi there, I'm Sameer Khan
 </h1>
 
-### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
+<p align="center">
+  <strong>🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast</strong>
+</p>
 
 ---
 
