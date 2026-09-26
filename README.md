@@ -1,9 +1,19 @@
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" height="50px"/> Hi there, I'm Sameer Khan
-</h1>
+<p align="center">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" alt="DevOps Cloud Native" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sameer Khan from India 🇮🇳</h1>
+
+<h3 align="center">
+DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+</h3>
 
 <p align="center">
-  <strong>🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast</strong>
+  <img alt="DevOps Coding" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkhansameer94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
