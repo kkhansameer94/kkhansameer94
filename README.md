@@ -34,7 +34,7 @@ DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems
   <a href="mailto:kkhansameer94@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://code-crush-zeta.vercel.app" target="_blank">
+  <a href="https://kkhansameer94.github.io/Sameer_Khan_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/_sameer_ixt" target="_blank">
